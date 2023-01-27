@@ -1,2 +1,3 @@
-# PrepCourse-Henrry
-Este es un repositorio del modulo2  del prepcouser de Henrry
+Pablo Damian Escalada
+
+Este proyecto es una brueba de como crear un repositorio y clonarlo de github a mi escritorio local
